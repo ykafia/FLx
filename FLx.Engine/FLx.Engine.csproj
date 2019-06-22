@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="glfw-net" Version="3.3.1" />
+    <PackageReference Include="skiasharp" Version="1.68.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+D:\projects\dotnetProjects\FLx\FLx.Engine\bin\Debug\netstandard2.0\FLx.Engine.deps.json
+D:\projects\dotnetProjects\FLx\FLx.Engine\bin\Debug\netstandard2.0\FLx.Engine.dll
+D:\projects\dotnetProjects\FLx\FLx.Engine\bin\Debug\netstandard2.0\FLx.Engine.pdb
+D:\projects\dotnetProjects\FLx\FLx.Engine\obj\Debug\netstandard2.0\FLx.Engine.csprojAssemblyReference.cache
+D:\projects\dotnetProjects\FLx\FLx.Engine\obj\Debug\netstandard2.0\FLx.Engine.csproj.CoreCompileInputs.cache
+D:\projects\dotnetProjects\FLx\FLx.Engine\obj\Debug\netstandard2.0\FLx.Engine.AssemblyInfoInputs.cache
+D:\projects\dotnetProjects\FLx\FLx.Engine\obj\Debug\netstandard2.0\FLx.Engine.AssemblyInfo.cs
+D:\projects\dotnetProjects\FLx\FLx.Engine\obj\Debug\netstandard2.0\FLx.Engine.dll
+D:\projects\dotnetProjects\FLx\FLx.Engine\obj\Debug\netstandard2.0\FLx.Engine.pdb
