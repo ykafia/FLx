@@ -1,9 +1,0 @@
-D:\projects\dotnetProjects\FLx\FLx.Inputs\bin\Debug\netstandard2.0\FLx.Inputs.deps.json
-D:\projects\dotnetProjects\FLx\FLx.Inputs\bin\Debug\netstandard2.0\FLx.Inputs.dll
-D:\projects\dotnetProjects\FLx\FLx.Inputs\bin\Debug\netstandard2.0\FLx.Inputs.pdb
-D:\projects\dotnetProjects\FLx\FLx.Inputs\obj\Debug\netstandard2.0\FLx.Inputs.csprojAssemblyReference.cache
-D:\projects\dotnetProjects\FLx\FLx.Inputs\obj\Debug\netstandard2.0\FLx.Inputs.csproj.CoreCompileInputs.cache
-D:\projects\dotnetProjects\FLx\FLx.Inputs\obj\Debug\netstandard2.0\FLx.Inputs.AssemblyInfoInputs.cache
-D:\projects\dotnetProjects\FLx\FLx.Inputs\obj\Debug\netstandard2.0\FLx.Inputs.AssemblyInfo.cs
-D:\projects\dotnetProjects\FLx\FLx.Inputs\obj\Debug\netstandard2.0\FLx.Inputs.dll
-D:\projects\dotnetProjects\FLx\FLx.Inputs\obj\Debug\netstandard2.0\FLx.Inputs.pdb

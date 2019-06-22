@@ -1,9 +1,0 @@
-D:\projects\dotnetProjects\FLx\FLx.Widgets\bin\Debug\netstandard2.0\FLx.Widgets.deps.json
-D:\projects\dotnetProjects\FLx\FLx.Widgets\bin\Debug\netstandard2.0\FLx.Widgets.dll
-D:\projects\dotnetProjects\FLx\FLx.Widgets\bin\Debug\netstandard2.0\FLx.Widgets.pdb
-D:\projects\dotnetProjects\FLx\FLx.Widgets\obj\Debug\netstandard2.0\FLx.Widgets.csprojAssemblyReference.cache
-D:\projects\dotnetProjects\FLx\FLx.Widgets\obj\Debug\netstandard2.0\FLx.Widgets.csproj.CoreCompileInputs.cache
-D:\projects\dotnetProjects\FLx\FLx.Widgets\obj\Debug\netstandard2.0\FLx.Widgets.AssemblyInfoInputs.cache
-D:\projects\dotnetProjects\FLx\FLx.Widgets\obj\Debug\netstandard2.0\FLx.Widgets.AssemblyInfo.cs
-D:\projects\dotnetProjects\FLx\FLx.Widgets\obj\Debug\netstandard2.0\FLx.Widgets.dll
-D:\projects\dotnetProjects\FLx\FLx.Widgets\obj\Debug\netstandard2.0\FLx.Widgets.pdb

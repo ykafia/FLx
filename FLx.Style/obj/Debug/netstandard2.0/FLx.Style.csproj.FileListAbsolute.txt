@@ -1,9 +1,0 @@
-D:\projects\dotnetProjects\FLx\FLx.Style\bin\Debug\netstandard2.0\FLx.Style.deps.json
-D:\projects\dotnetProjects\FLx\FLx.Style\bin\Debug\netstandard2.0\FLx.Style.dll
-D:\projects\dotnetProjects\FLx\FLx.Style\bin\Debug\netstandard2.0\FLx.Style.pdb
-D:\projects\dotnetProjects\FLx\FLx.Style\obj\Debug\netstandard2.0\FLx.Style.csprojAssemblyReference.cache
-D:\projects\dotnetProjects\FLx\FLx.Style\obj\Debug\netstandard2.0\FLx.Style.csproj.CoreCompileInputs.cache
-D:\projects\dotnetProjects\FLx\FLx.Style\obj\Debug\netstandard2.0\FLx.Style.AssemblyInfoInputs.cache
-D:\projects\dotnetProjects\FLx\FLx.Style\obj\Debug\netstandard2.0\FLx.Style.AssemblyInfo.cs
-D:\projects\dotnetProjects\FLx\FLx.Style\obj\Debug\netstandard2.0\FLx.Style.dll
-D:\projects\dotnetProjects\FLx\FLx.Style\obj\Debug\netstandard2.0\FLx.Style.pdb
