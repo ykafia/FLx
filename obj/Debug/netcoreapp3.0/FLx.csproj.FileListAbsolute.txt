@@ -1,0 +1,4 @@
+D:\projects\dotnetProjects\FLx\obj\Debug\netcoreapp3.0\FLx.csprojAssemblyReference.cache
+D:\projects\dotnetProjects\FLx\obj\Debug\netcoreapp3.0\FLx.csproj.CoreCompileInputs.cache
+D:\projects\dotnetProjects\FLx\obj\Debug\netcoreapp3.0\FLx.AssemblyInfoInputs.cache
+D:\projects\dotnetProjects\FLx\obj\Debug\netcoreapp3.0\FLx.AssemblyInfo.cs
