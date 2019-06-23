@@ -10,4 +10,8 @@
     <PackageReference Include="Skiasharp" Version="1.68.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FLx.Engine\FLx.Engine.csproj" />
+  </ItemGroup>
+
 </Project>

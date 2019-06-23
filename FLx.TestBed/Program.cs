@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Runtime.InteropServices;
 using GLFW;
 using SkiaSharp;
-
+using FLx.Engine;
 namespace FLx.TestBed
 {
     class Program
@@ -19,8 +19,13 @@ namespace FLx.TestBed
         //----------------------------------
 
         static void Main(string[] args)
-        {
-            using (Program.window = new NativeWindow(800, 600, "Skia Example"))
+        {  
+            var engine = new FLx.Engine.Engine(appName:"Youness",height:1000,width:2000);
+            engine.Run();
+        }
+    }
+}
+            /*using (Program.window = new NativeWindow(800, 600, "Skia Example"))
             {
                 Program.SubscribeToWindowEvents();
 
@@ -132,3 +137,4 @@ namespace FLx.TestBed
 
     }
 }
+ */
